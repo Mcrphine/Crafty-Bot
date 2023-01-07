@@ -1,0 +1,18 @@
+{
+  "name": "craftybot",
+  "version": "1.0.0",
+  "description": "A bot for Crafty Caverns.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crafty"
+  ],
+  "author": "TheLastBeacon",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.5.0",
+    "discord.js": "^14.7.1"
+  }
+}
